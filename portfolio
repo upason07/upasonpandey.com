@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPASON PANDEY | Data Entry Specialist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+      margin-top: 1rem;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #4CAF50;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #333;
+      color: white;
+      margin-top: 2rem;
+    }
+    ul {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Upason Pandey</h1>
+    <p>Data Entry Specialist | Excel Expert | Virtual Assistant</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I’m a detail-oriented freelancer with over 3 years of experience in data entry, Excel, and administrative support. I deliver high-quality, accurate work on time and with complete confidentiality.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li>Data Entry (Excel, Word, Google Sheets)</li>
+      <li>PDF to Excel/Word Conversion</li>
+      <li>Data Cleaning & Formatting</li>
+      <li>Web Research & Data Collection</li>
+      <li>Virtual Assistance (Email, Admin Tasks)</li>
+      <li>Spreadsheet Automation (Formulas, Charts, Pivot Tables)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Sales Data Cleanup:</strong> Organized and cleaned over 5,000 rows of monthly sales data, built dashboards using pivot tables.</li>
+      <li><strong>Survey Response Formatting:</strong> Converted Google Forms data into structured Excel reports for easy analysis.</li>
+      <li><strong>Product Listing Management:</strong> Managed and uploaded product listings to e-commerce platforms using Excel.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Testimonials</h2>
+    <blockquote>“Reliable, fast, and detail-oriented. Highly recommend!” – Small Business Owner</blockquote>
+    <blockquote>“Completed data entry with 100% accuracy. Will hire again.” – Research Assistant</blockquote>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: pandeyupasan000@gmail.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
